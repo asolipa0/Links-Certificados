@@ -1,4 +1,4 @@
-# Página de links dos Certificações - António Solipa
+# Página de links das Certificações - António Solipa
 
 ![Imagem de resultado do projeto](./assets/Links.png)
 <br>
